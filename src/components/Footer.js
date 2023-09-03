@@ -29,7 +29,7 @@ const Footer = () => {
               href="mailto:Contact@rspatilpharma.com"
               className="hover:text-black"
             >
-              Contact@rspatilpharma.com
+              dnynankurdms@gmail.com
             </a>
           </div>
         </div>
